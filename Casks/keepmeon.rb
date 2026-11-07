@@ -1,6 +1,6 @@
 cask "keepmeon" do
-  version "1.3.0"
-  sha256 "e10766f978f3dfeb3b7ed5cd86e087647bb2741d38047eb606227d948b3877b0"
+  version "1.3.1"
+  sha256 "89e4d1f7ab5df47c1e7032de6e02ee70b1c4f7d992e381e03dcac5db0e12c3dc"
 
   url "https://github.com/christianmusumeci00/KeepMeOn/releases/download/v#{version}/KeepMeOn.dmg"
   name "KeepMeOn"
